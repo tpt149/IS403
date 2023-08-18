@@ -25,4 +25,4 @@
 | 2      | 20522176      | Đặng Thị Tường Vy      |                                                      |20522176@gm.uit.edu.vn   |
 | 3      | 20521582      | Nguyễn Thành Luân      |https://github.com/ntl15                              |20521582@gm.uit.edu.vn   |
 
-# Project: Stock predictions
+# Project: Stock price prediction using machine learing
